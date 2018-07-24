@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TravelBuddy</string>
+    <string name="title_attractions">Attractions</string>
+    <string name="title_language">Language</string>
+    <string name="title_quiz">Quiz</string>
+    <string name="question_one">Penang Hill was the first colonial hill station developed in Peninsular Malaysia.</string>
+    <string name="question_two">Kek Lok Si is the second largest Buddhist temple in Malaysia.</string>
+    <string name="question_three">"Brother and Sister on a Swing" is a mural by a young foreigner deaf-mute artist, Louis Gan.</string>
+    <string name="question_four">Penang Botanic Gardens was established by Charles Curtis of Britain in 1884.</string>
+    <string name="question_five">Penang is known for being the "food paradise" of Malaysia.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+</resources>

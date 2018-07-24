@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_attractions"
+        android:icon="@drawable/ic_attractions"
+        android:title="Attractions"/>
+
+    <item
+        android:id="@+id/navigation_video"
+        android:icon="@drawable/ic_video"
+        android:title="Video" />
+    <item
+        android:id="@+id/navigation_language"
+        android:icon="@drawable/ic_language"
+        android:title="Language"/>
+
+    <item
+        android:id="@+id/navigation_quiz"
+        android:icon="@drawable/ic_quiz"
+        android:title="Quiz"/>
+
+
+
+
+</menu>
